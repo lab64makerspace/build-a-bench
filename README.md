@@ -5,9 +5,11 @@ This is a collection of thoughts on how to build *your* bench. There are certain
 
 Since the lab64 user community is composed primarily of students and researchers, we will try to provide information useful for setting up a bench in limited space and with a limited budget.
 
-The good news is that a lot of equipment has become more and more affordable, so a really quite capable bench may be had for a relatively miminal investment. On the other hand, buying "cheap" stuff can be a waste of money and, even worse, a waste of your *time*! So don't buy cheap stuff!
+The good news is that a lot of equipment has become more and more affordable, so a really quite capable bench may be had for a relatively miminal investment. On the other hand, buying "cheap" stuff can be a waste of money and, even worse, a waste of your *time*! So don't buy stuff *just* because it is inexpensive!
 
-It has been said that "It is a poor craftsmen that blames his tools"! This has always been the case and so our call to you is to "Use your brain instead of your pocketbook". If one is truely a "maker / engineer" one can create their own tools! There is a truly FINE tradition of folks doing excellent work and pushing technology to places beyond what some thought was possible. Professor Tom Lee points out that the folks at Tektronix (the 'scope people) were able to get ~ 3x the performance from the same parts that their customers were using because they *UNDERSTOOD* what they were doing! So don't be discouraged, be *curious*!!
+It has long been said that "It is a poor craftsmen that blames his tools"!
+
+This has always been the case and so our call to you is - "*Use your brain instead of your pocketbook*". If one is truely a "maker / engineer" one can create their own tools! There is a truly FINE tradition of folks doing excellent work and pushing technology to places beyond what their contemporaries thought was possible. Professor Tom Lee points out that the folks at Tektronix (the 'scope people) were able to get ~ 3x the performance from the same parts that their customers were using because they *UNDERSTOOD* what they were doing! So don't be discouraged, be *curious*!!
 
 So without further ado, let's get started on *your* bench...
 
