@@ -22,7 +22,7 @@ Often folks don't have the luxury of dedicating space to a flat surface that is 
 
 Well, again, good news!! This is entirely possible and, in fact, most of us spend a lot of time working on a small surface (about the size of a A4 size sheet).
 
-I'm going to stop here... let's continue the discussion on the [BENCH](../../bench) pages.
+I'm going to stop here... let's continue the discussion on the [BENCH](bench) pages.
 
 __*REALLY* USEFULL STUFF__
 
